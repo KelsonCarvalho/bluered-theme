@@ -2,14 +2,14 @@
   "name": "bluered-theme",
   "displayName": "bluered-theme",
   "description": "Tema simples deixa sua curtida mesmo que nao goste do thema",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.83.0"
   },
   "categories": [
     "Themes"
   ],
-  "icon": "icon.png",
+  "icon": "icon.jpg",
     "repository": {
     "type": "git",
     "url": "https://github.com/NoslekCode/bluered-theme"
@@ -18,7 +18,6 @@
     "red",
     "blue",
     "dark",
-    "noslekCode",
     "theme"
   ],
   "publisher": "kelsoncarvalho",
