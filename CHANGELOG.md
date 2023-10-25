@@ -6,7 +6,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
-- Initial release
-- release V2 
-- release V3 Atualização Do README
-- release V4 Atualização Do icone
+- V1 0.0.1
+- V2 0.0.2
+- V3 0.0.3
+- V4 0.0.4
+- V5 1.0.4
