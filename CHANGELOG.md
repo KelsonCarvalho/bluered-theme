@@ -7,7 +7,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Unreleased]
 
 - V1 0.0.1
-- V2 0.0.2
-- V3 0.0.3
-- V4 0.0.4
-- V5 1.0.4
+- V1 0.0.2
+- V1 0.0.3
+- V1 0.0.4
+- V1 1.0.4
+- v1 1.0.5
