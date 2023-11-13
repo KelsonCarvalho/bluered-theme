@@ -1,6 +1,6 @@
-# Tema Blue Red Kelson Carvalho
+# Tema Blue Red 
 
-## Um tema escuro para seu Visual Studio Code ficar ainda mais estiloso! Aproveite e compartilhe este tema com seus amigos.
+### Explore a fusão dinâmica de Blue and Red no seu ambiente (VSCode), criando uma atmosfera estimulante e moderna para o seu espaço de desenvolvimento.
 
 ![](https://github.com/NoslekCode/bluered-theme/blob/main/background.png?raw=true)
 
